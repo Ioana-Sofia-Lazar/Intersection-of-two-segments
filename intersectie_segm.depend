@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1478548192 source:d:\fmi\an 2\sem 1\geomcomputationala\intersectie_segm\main.cpp
+	<iostream>
+	<fstream>
+
